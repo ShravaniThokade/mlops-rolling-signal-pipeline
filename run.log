@@ -1,0 +1,7 @@
+2026-07-02 23:08:18 | INFO | Job started
+2026-07-02 23:08:18 | INFO | Config loaded and validated (seed=42, window=5, version=v1)
+2026-07-02 23:08:18 | INFO | Rows loaded: 10000
+2026-07-02 23:08:18 | INFO | Computing rolling mean on close (window=5)
+2026-07-02 23:08:18 | INFO | Signal generation complete (9996 rows with valid rolling mean)
+2026-07-02 23:08:18 | INFO | Metrics summary: rows_processed=10000, signal_rate=0.4991
+2026-07-02 23:08:18 | INFO | Job finished with status=success
